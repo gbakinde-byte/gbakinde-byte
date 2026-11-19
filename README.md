@@ -1,5 +1,5 @@
 Hi, I'm Goodness 👋 A network engineer who builds and tests enterprise networks in GNS3, then automates them end to end.
-I'm focused on routing (OSPF, BGP) and network automation, and I'm open to remote network engineering roles.
+I'm focused on routing (OSPF, BGP) and network automation.
 
 ## Skills
 
