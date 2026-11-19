@@ -11,9 +11,9 @@ I'm focused on routing (OSPF, BGP) and network automation.
 
 ## Projects
 
-- [**network-automation**](https://github.com/gbakinde-byte/network-automation): Ansible OSPF deployment (role, Jinja2 templates, verify playbook) tested in GNS3, plus automation projects grouped in one repo
-- [**network_validation_pyATS**](https://github.com/gbakinde-byte/network-automation): pyATS tests for OSPF state and reachability, with generated device docs
-- [**BGP_configuration**](https://github.com/gbakinde-byte/network-automation): iBGP full mesh across four routers, configured with Ansible and validated with pyATS
+- [**ansible-ospf-automation**](https://github.com/gbakinde-byte/network-automation/tree/main/ansible-ospf-automation): Ansible OSPF deployment (role, Jinja2 templates, verify playbook) tested in GNS3
+- [**network_validation_pyATS**](https://github.com/gbakinde-byte/network-automation/tree/main/network_validation_pyATS): pyATS tests for OSPF state and reachability, with generated device docs
+- [**BGP_lab**](https://github.com/gbakinde-byte/network-automation/tree/main/BGP_lab): iBGP full mesh across four routers, configured with Ansible and validated with pyATS
 
 ## Connect
 
